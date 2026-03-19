@@ -1,5 +1,5 @@
-session_id
-ses-25208+1+1+Ach+V1
-ses-25208+1+2+Ach+V1
-ses-25208+2+1+Ach+V1
-ses-25208+2+2+Ach+V1
+session_id	original_session_id
+ses-25208+1+1+Ach+V1	ses-25208_1_1_Ach_V1
+ses-25208+1+2+Ach+V1	ses-25208_1_2_Ach_V1
+ses-25208+2+1+Ach+V1	ses-25208_2_1_Ach_V1
+ses-25208+2+2+Ach+V1	ses-25208_2_2_Ach_V1

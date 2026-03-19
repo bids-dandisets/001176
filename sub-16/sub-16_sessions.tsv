@@ -1,5 +1,5 @@
-session_id
-ses-16+1+2+Ach+M1
-ses-16+3+1+Ach+M1
-ses-16+4+1+Ach+M1
-ses-16+4+2+Ach+M1
+session_id	original_session_id
+ses-16+1+2+Ach+M1	ses-16_1_2_Ach_M1
+ses-16+3+1+Ach+M1	ses-16_3_1_Ach_M1
+ses-16+4+1+Ach+M1	ses-16_4_1_Ach_M1
+ses-16+4+2+Ach+M1	ses-16_4_2_Ach_M1

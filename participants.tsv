@@ -1,30 +1,30 @@
-participant_id	species	sex	strain
-sub-16	Mus musculus	F	
-sub-18	Mus musculus	F	
-sub-22713	Mus musculus	F	C57Bl/6
-sub-23892	Mus musculus	F	C57Bl/6
-sub-23893	Mus musculus	F	C57Bl/6
-sub-24	Mus musculus	F	
-sub-24218	Mus musculus	M	C57Bl/6
-sub-24741	Mus musculus	M	Nestin-CreER(W)
-sub-24786	Mus musculus	M	Tlx3 Cre
-sub-24787	Mus musculus	M	Tlx3 Cre
-sub-24788	Mus musculus	M	Tlx3 Cre
-sub-24820	Mus musculus	F	APP
-sub-24821	Mus musculus	F	APP
-sub-25189	Mus musculus	M	Ai148_GCamp6
-sub-25206	Mus musculus	F	Thy1-RGECO
-sub-25208	Mus musculus	F	Thy1-RGECO
-sub-25402	Mus musculus	F	C57Bl/6
-sub-25426	Mus musculus	F	SLC17a8 iCre
-sub-25781	Mus musculus	F	Aldh1l1 Cre
-sub-25910	Mus musculus	M	Thy1-RGECO
-sub-25912	Mus musculus	M	Thy1-RGECO
-sub-26536	Mus musculus	F	ChAT-Cre
-sub-27221	Mus musculus	F	ChAT-dNeo
-sub-27222	Mus musculus	F	ChAT-dNeo
-sub-27223	Mus musculus	F	ChAT-dNeo
-sub-27224	Mus musculus	F	ChAT-dNeo
-sub-34447	Mus musculus	M	
-sub-34448	Mus musculus	M	
-sub-34449	Mus musculus	M	
+participant_id	original_participant_id	species	sex	strain
+sub-16	sub-16	Mus musculus	F	
+sub-18	sub-18	Mus musculus	F	
+sub-22713	sub-22713	Mus musculus	F	C57Bl/6
+sub-23892	sub-23892	Mus musculus	F	C57Bl/6
+sub-23893	sub-23893	Mus musculus	F	C57Bl/6
+sub-24	sub-24	Mus musculus	F	
+sub-24218	sub-24218	Mus musculus	M	C57Bl/6
+sub-24741	sub-24741	Mus musculus	M	Nestin-CreER(W)
+sub-24786	sub-24786	Mus musculus	M	Tlx3 Cre
+sub-24787	sub-24787	Mus musculus	M	Tlx3 Cre
+sub-24788	sub-24788	Mus musculus	M	Tlx3 Cre
+sub-24820	sub-24820	Mus musculus	F	APP
+sub-24821	sub-24821	Mus musculus	F	APP
+sub-25189	sub-25189	Mus musculus	M	Ai148_GCamp6
+sub-25206	sub-25206	Mus musculus	F	Thy1-RGECO
+sub-25208	sub-25208	Mus musculus	F	Thy1-RGECO
+sub-25402	sub-25402	Mus musculus	F	C57Bl/6
+sub-25426	sub-25426	Mus musculus	F	SLC17a8 iCre
+sub-25781	sub-25781	Mus musculus	F	Aldh1l1 Cre
+sub-25910	sub-25910	Mus musculus	M	Thy1-RGECO
+sub-25912	sub-25912	Mus musculus	M	Thy1-RGECO
+sub-26536	sub-26536	Mus musculus	F	ChAT-Cre
+sub-27221	sub-27221	Mus musculus	F	ChAT-dNeo
+sub-27222	sub-27222	Mus musculus	F	ChAT-dNeo
+sub-27223	sub-27223	Mus musculus	F	ChAT-dNeo
+sub-27224	sub-27224	Mus musculus	F	ChAT-dNeo
+sub-34447	sub-34447	Mus musculus	M	
+sub-34448	sub-34448	Mus musculus	M	
+sub-34449	sub-34449	Mus musculus	M	
